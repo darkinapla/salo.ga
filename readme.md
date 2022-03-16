@@ -1,4 +1,4 @@
-# salo.ga
+# [salo.ga](https://salo.ga)
 website by ukrainian-salo
 
 
