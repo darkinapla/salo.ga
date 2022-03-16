@@ -4,4 +4,4 @@ website by ukrainian-salo
 
 
 
-<sub>p.s free for you</sub>
+<sub>free open source... for you</sub>
