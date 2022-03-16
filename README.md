@@ -1,5 +1,5 @@
 # salo.ga
-website by salo
+website by ukrainian-salo
 
 
 
